@@ -1,4 +1,4 @@
-#1deg_jra55_ryf_1mtop
+# 1deg_jra55_ryf_1mtop
 
 THis is a simulation ran by Wilton Aguiar (wilton.Aguiar@anu.edu.au), with access-OM2-1, in where the vertical grid is changed to be 1m on the top. This simulation differs from the classic 1deg_jra55_ryf by using the KDS75 grid from Kial Stewart, with 75 vertical levels and a surface cell thickness of 1.1m. This simulation was run for the DSW project
 
