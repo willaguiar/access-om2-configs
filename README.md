@@ -1,3 +1,20 @@
+#1deg_jra55_ryf_1mtop
+
+THis is a simulation ran by Wilton Aguiar (wilton.Aguiar@anu.edu.au), with access-OM2-1, in where the vertical grid is changed to be 1m on the top. This simulation differs from the classic 1deg_jra55_ryf by using the KDS75 grid from Kial Stewart, with 75 vertical levels and a surface cell thickness of 1.1m. This simulation was run for the DSW project
+
+
+
+
+
+
+Details of the original simulation , that was used to branch off the current one are below:
+
+
+_____
+
+
+
+
 # 1deg_jra55_ryf
 
 Standard configuration for 1 degree global [ACCESS-OM2](https://github.com/ACCESS-NRI/access-om2) experiment (ACCESS-OM2) with JRA55-do 1 May 1990 - 30 April 1991 repeat-year forcing (RYF9091).

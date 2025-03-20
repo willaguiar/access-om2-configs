@@ -2,14 +2,12 @@
 
 # If submitting to a different project to your default, uncomment line below
 # and replace PROJECT_CODE with appropriate code. This may require setting shortpath
-# project: PROJECT_CODE
-
+project: y99
 # Force payu to always find, and save, files in this scratch project directory
-# shortpath: /scratch/PROJECT_CODE
-
+shortpath: /scratch/oz91/wf4500/OM2_1deg_RYF_1mtop
 queue: normal
 walltime: 3:00:00
-jobname: 1deg_jra55_ryf
+jobname: 1deg_jra55_ryf_1mtop
 mem: 1000GB
 
 # Sync options for automatically copying data from ephemeral scratch space to 
@@ -45,7 +43,7 @@ submodels:
           - /g/data/vk83/experiments/inputs/access-om2/ocean/grids/mosaic/global.1deg/2020.05.30/ocean_mosaic.nc
           - /g/data/vk83/experiments/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/topog.nc
           - /g/data/vk83/experiments/inputs/access-om2/ocean/grids/bathymetry/global.1deg/2020.10.22/ocean_mask.nc
-          - /g/data/vk83/experiments/inputs/access-om2/ocean/grids/vertical/global.1deg/2020.10.22/ocean_vgrid.nc
+          - 
           - /g/data/vk83/experiments/inputs/access-om2/ocean/processor_masks/global.1deg/216.16x15/2020.05.30/ocean_mask_table
           - /g/data/vk83/experiments/inputs/access-om2/ocean/chlorophyll/global.1deg/2020.05.30/chl.nc
           - /g/data/vk83/experiments/inputs/access-om2/ocean/initial_conditions/global.1deg/2020.10.22/ocean_temp_salt.res.nc
